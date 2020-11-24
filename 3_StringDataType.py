@@ -1,4 +1,4 @@
-print('풍선')
-print("나비")
+print('bool')
+print("butterfly")
 print("ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ")
 print("ㅋ"*5)

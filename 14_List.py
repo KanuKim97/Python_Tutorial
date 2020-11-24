@@ -3,17 +3,17 @@
 subway = [10, 20, 30]
 print(subway)
 
-subway = ["김건우", "김건우2", "김건우3"]
+subway = ["mike", "mike2", "mike3"]
 print(subway)
 
-print(subway.index("김건우3"))
+print(subway.index("mike3"))
 
 # Add factor at List
-subway.append("김건우4")
+subway.append("mike4")
 print(subway)
 
 # Insert factor at List
-subway.insert(1, "홍길동")
+subway.insert(1, "chris")
 print(subway)
 
 # Pop factor at List
@@ -21,9 +21,9 @@ subway.pop()
 print(subway)
 
 # Count same factor
-subway.append("김건우")
+subway.append("mike")
 print(subway)
-print(subway.count("김건우"))
+print(subway.count("mike"))
 
 # Sort
 List_num = [1, 3, 2, 5, 7]

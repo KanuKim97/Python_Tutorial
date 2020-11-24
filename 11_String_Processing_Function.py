@@ -1,7 +1,7 @@
-sentence = "hi my name is geonwoo kim"
+sentence = "hi my name is mike"
 print(sentence.upper())
 
-sentence2 = "HI MY NAME IS GEONWOO KIM"
+sentence2 = "HI MY NAME IS MIKE"
 print(sentence2.lower())
 
 print(sentence[0].isupper())
@@ -12,13 +12,13 @@ print(len(sentence2))
 
 print(sentence.replace("hi", "Bye"))
 
-index = sentence.index("k")
+index = sentence.index("m")
 print(index)
 
-index = sentence.index("m", index + 1)
+index = sentence.index("k", index + 1)
 print(index)
 
+print(sentence.find("mi"))
 print(sentence.find("kim"))
-print(sentence.find("Han"))
 
 print(sentence.count("i"))

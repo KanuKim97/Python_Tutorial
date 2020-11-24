@@ -1,4 +1,4 @@
-Dictionary = {1: "김건우", 2: "박영환"}
+Dictionary = {1: "mike", 2: "chris"}
 print(Dictionary[1])
 print(Dictionary[2])
 

@@ -2,7 +2,7 @@
 Age = 4
 Animal = "Rabbit"
 Name = "Judy"
-Hobby = "산책"
+Hobby = "walking Around"
 Is_Adult = Age >= 3
 
 print("Name : " + Name)
